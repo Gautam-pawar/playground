@@ -1,8 +1,13 @@
 # playground
 play with code
 
+**
+****
+*******
+********
+*********
+******Begening******
 
-*Begening*
 ****1st Task****
 gautam@gautam-Lenovo-IdeaPad-S510p:~/exercises$ git start
 Preparing the exercise environment, hold on...
